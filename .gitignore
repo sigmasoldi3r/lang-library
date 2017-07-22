@@ -1,0 +1,11 @@
+
+# Output files for distribution
+dist/
+build/
+temp/
+libs/
+package/
+release/
+
+# Node JS
+node_modules/
